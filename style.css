@@ -16,6 +16,13 @@ a{
     color: rgb(235, 12, 12);
    
 }
+.nav-collapse .nav-link{
+    position: relative;
+    right: 250px;
+}
+    .navbar-toggler {
+      border-color: white; /* Change the border color */
+    }
  .nav-link{
   font-size: 25px;
   font-weight: 200;
