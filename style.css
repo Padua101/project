@@ -19,6 +19,7 @@ a{
 .nav-collapse .nav-link{
     position: relative;
     right: 400px;
+    margin-left: -300px;
 }
     .navbar-toggler {
       border-color: white; /* Change the border color */
