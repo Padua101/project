@@ -16,7 +16,7 @@ a{
     color: rgb(235, 12, 12);
    
 }
-.nav-collapse .nav-link{
+.nav-collapse .nav-link .nav-item{
     position: relative;
     right: 400px;
     margin-left: -300px;
